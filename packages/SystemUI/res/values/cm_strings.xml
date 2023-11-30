@@ -140,4 +140,7 @@
 
     <!-- Channel name for Battery notifications -->
     <string name="battery_notification_channel_tv">Battery warning</string>
+
+    <!-- Text while recognizing face -->
+    <string name="face_unlock_recognizing">Recognizing face...</string>
 </resources>
